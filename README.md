@@ -1,4 +1,4 @@
-# CV Object Detection — XWOD Benchmark
+# CV Object Detection - XWOD Benchmark
 
 Object detection on the [XWOD (Extreme Weather Object Detection)](https://www.kaggle.com/datasets/kuantinglai/exwod) benchmark using YOLOv8. The dataset contains 10,010 images across 7 extreme weather conditions (Rain, Snow, Fog, Haze, Flooding, Tornado, Wildfire) with 42,924 bounding box annotations across 6 classes: Car, Truck, Person, Bus, Motorcycle, Bike.
 
