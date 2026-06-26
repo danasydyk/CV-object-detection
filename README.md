@@ -19,17 +19,6 @@ Object detection on the [XWOD (Extreme Weather Object Detection)](https://www.ka
 | mAP@50 | 0.555 |
 | mAP@50-95 | 0.311 |
 
-**Per-class mAP@50:**
-
-| Class | mAP |
-|-------|-----|
-| Car | 0.476 |
-| Person | 0.335 |
-| Bus | 0.307 |
-| Truck | 0.268 |
-| Bike | 0.266 |
-| Motorcycle | 0.212 |
-
 ## Demo
 
 **Original video:**
@@ -38,7 +27,7 @@ https://github.com/danasydyk/CV-object-detection/blob/main/video.mp4
 
 **Predicted video (YOLOv8m detections):**
 
-[Download predicted.avi](https://github.com/danasydyk/CV-object-detection/blob/main/predicted.avi)
+https://github.com/danasydyk/CV-object-detection/blob/main/predicted.avi
 
 ## Files
 
