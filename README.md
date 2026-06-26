@@ -19,6 +19,8 @@ Object detection on the [XWOD (Extreme Weather Object Detection)](https://www.ka
 | mAP@50 | 0.555 |
 | mAP@50-95 | 0.311 |
 
+![Model Results](photo.png)
+
 ## Demo
 
 **Original video:**
